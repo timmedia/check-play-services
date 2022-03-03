@@ -34,3 +34,17 @@ android-template/app/app.iml
 .gradle/
 .settings/
 .project
+*.apk
+*.ap_
+*.dex
+*.class
+bin
+gen
+out
+.gradle
+proguard
+*.log
+.navigation
+captures
+*.iml
+.externalNativeBuild
