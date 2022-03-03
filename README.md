@@ -1,6 +1,6 @@
 <p align="center"><br><img src="https://user-images.githubusercontent.com/236501/85893648-1c92e880-b7a8-11ea-926d-95355b8175c7.png" width="128" height="128" /></p>
 <h3 align="center">Check Play Services</h3>
-<p align="center"><strong><code>@timmedia/check-play-services</code></strong></p>
+<p align="center"><strong><code>check-play-services</code></strong></p>
 <p align="center">
   Capacitor plugin to check the availability of Google Play services.
 </p>
@@ -19,7 +19,7 @@
 
 # Check Play Services
 
-This plugin relies on the [`isGooglePlayServicesAvailable`](https://developers.google.com/android/reference/com/google/android/gms/common/GoogleApiAvailability.html#isGooglePlayServicesAvailable%28android.content.Context%29) method of the native [`GoogleApiAvailability`](https://developers.google.com/android/reference/com/google/android/gms/common/GoogleApiAvailability.html) helper class.
+This plugin relies on the [`isGooglePlayServicesAvailable`](https://developers.google.com/android/reference/com/google/android/gms/common/GoogleApiAvailability.html#isGooglePlayServicesAvailable%28android.content.Context%29) method of the native [`GoogleApiAvailability`](https://developers.google.com/android/reference/com/google/android/gms/common/GoogleApiAvailability.html) helper class and can be used to check whether Google Play services are available on the device (e.g. before attempting Google native authentication).
 
 ## Maintainers
 
