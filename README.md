@@ -23,9 +23,9 @@ This plugin relies on the [`isGooglePlayServicesAvailable`](https://developers.g
 
 ## Maintainers
 
-| Maintainer | GitHub | Social |
-| -----------| -------| -------|
-| Tim | [timmedia](https://github.com/timmedia) | [@t8tv](https://twitter.com/t8tv) |
+| Maintainer | GitHub                                  | Social |
+| ---------- | --------------------------------------- | ------ |
+| Tim        | [timmedia](https://github.com/timmedia) |
 
 ## Installation
 
@@ -47,9 +47,9 @@ const { available } = await CheckPlayServices.isAvailable();
 
 <docgen-index>
 
-* [`getAvailability()`](#getavailability)
-* [`isAvailable()`](#isavailable)
-* [Enums](#enums)
+- [`getAvailability()`](#getavailability)
+- [`isAvailable()`](#isavailable)
+- [Enums](#enums)
 
 </docgen-index>
 
@@ -68,8 +68,7 @@ Checks whether Google Play services are available, returns the status code.
 
 **Since:** 1.0.0
 
---------------------
-
+---
 
 ### isAvailable()
 
@@ -83,11 +82,9 @@ Check that Google Play services are enabled.
 
 **Since:** 1.0.0
 
---------------------
-
+---
 
 ### Enums
-
 
 #### AvailabilityStatus
 
@@ -101,4 +98,3 @@ Check that Google Play services are enabled.
 | **`SERVICE_INVALID`**                 | <code>9</code>  |
 
 </docgen-api>
-
