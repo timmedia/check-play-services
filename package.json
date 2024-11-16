@@ -1,6 +1,6 @@
 {
   "name": "@timmedia/check-play-services",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Capacitor plugin to check the availability of Google Play services.",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
