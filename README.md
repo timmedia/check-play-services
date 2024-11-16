@@ -46,9 +46,9 @@ const { available } = await CheckPlayServices.isAvailable();
 
 <docgen-index>
 
-- [`getAvailability()`](#getavailability)
-- [`isAvailable()`](#isavailable)
-- [Enums](#enums)
+* [`getAvailability()`](#getavailability)
+* [`isAvailable()`](#isavailable)
+* [Enums](#enums)
 
 </docgen-index>
 
@@ -67,7 +67,8 @@ Checks whether Google Play services are available, returns the status code.
 
 **Since:** 1.0.0
 
----
+--------------------
+
 
 ### isAvailable()
 
@@ -81,9 +82,11 @@ Check that Google Play services are enabled.
 
 **Since:** 1.0.0
 
----
+--------------------
+
 
 ### Enums
+
 
 #### AvailabilityStatus
 
