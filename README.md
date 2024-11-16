@@ -1,6 +1,6 @@
 <p align="center"><br><img src="https://user-images.githubusercontent.com/236501/85893648-1c92e880-b7a8-11ea-926d-95355b8175c7.png" width="128" height="128" /></p>
 <h3 align="center">Check Play Services</h3>
-<p align="center"><strong><code>check-play-services</code></strong></p>
+<p align="center"><strong><code>@timmedia/check-play-services</code></strong></p>
 <p align="center">
   Capacitor plugin to check the availability of Google Play services.
 </p>
@@ -22,8 +22,8 @@ This plugin relies on the [`isGooglePlayServicesAvailable`](https://developers.g
 
 ## Maintainers
 
-| Maintainer | GitHub                                  | Social |
-| ---------- | --------------------------------------- | ------ |
+| Maintainer | GitHub                                  |
+| ---------- | --------------------------------------- |
 | Tim        | [timmedia](https://github.com/timmedia) |
 
 ## Installation
@@ -46,9 +46,9 @@ const { available } = await CheckPlayServices.isAvailable();
 
 <docgen-index>
 
-* [`getAvailability()`](#getavailability)
-* [`isAvailable()`](#isavailable)
-* [Enums](#enums)
+- [`getAvailability()`](#getavailability)
+- [`isAvailable()`](#isavailable)
+- [Enums](#enums)
 
 </docgen-index>
 
@@ -67,8 +67,7 @@ Checks whether Google Play services are available, returns the status code.
 
 **Since:** 1.0.0
 
---------------------
-
+---
 
 ### isAvailable()
 
@@ -82,11 +81,9 @@ Check that Google Play services are enabled.
 
 **Since:** 1.0.0
 
---------------------
-
+---
 
 ### Enums
-
 
 #### AvailabilityStatus
 
