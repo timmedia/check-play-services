@@ -1,5 +1,5 @@
 {
-  "name": "check-play-services",
+  "name": "@timmedia/check-play-services",
   "version": "1.1.0",
   "description": "Capacitor plugin to check the availability of Google Play services.",
   "main": "dist/plugin.cjs.js",
