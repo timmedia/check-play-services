@@ -7,11 +7,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/maintenance/yes/2024?style=flat-square" />
-  <a href="https://github.com/capacitor-community/example/actions?query=workflow%3A%22CI%22"><img src="https://img.shields.io/github/workflow/status/capacitor-community/example/CI?style=flat-square" /></a>
-  <a href="https://www.npmjs.com/package/@capacitor-community/example"><img src="https://img.shields.io/npm/l/@capacitor-community/example?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/@timmedia/check-play-services"><img src="https://img.shields.io/npm/l/@timmedia/check-play-services?style=flat-square" /></a>
 <br>
-  <a href="https://www.npmjs.com/package/@capacitor-community/example"><img src="https://img.shields.io/npm/dw/@capacitor-community/example?style=flat-square" /></a>
-  <a href="https://www.npmjs.com/package/@capacitor-community/example"><img src="https://img.shields.io/npm/v/@capacitor-community/example?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/@timmedia/check-play-services"><img src="https://img.shields.io/npm/dw/@timmedia/check-play-services?style=flat-square" /></a>
+  <a href="https://www.npmjs.com/package/https://www.npmjs.com/package/@timmedia/check-play-services"><img src="https://img.shields.io/npm/v/@timmedia/check-play-services?style=flat-square" /></a>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <a href="#contributors-"><img src="https://img.shields.io/badge/all%20contributors-0-orange?style=flat-square" /></a>
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
