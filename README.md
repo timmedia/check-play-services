@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/maintenance/yes/2024?style=flat-square" />
+  <img src="https://img.shields.io/maintenance/yes/2025?style=flat-square" />
   <a href="https://www.npmjs.com/package/@timmedia/check-play-services"><img src="https://img.shields.io/npm/l/@timmedia/check-play-services?style=flat-square" /></a>
 <br>
   <a href="https://www.npmjs.com/package/@timmedia/check-play-services"><img src="https://img.shields.io/npm/dw/@timmedia/check-play-services?style=flat-square" /></a>
@@ -46,9 +46,9 @@ const { available } = await CheckPlayServices.isAvailable();
 
 <docgen-index>
 
-* [`getAvailability()`](#getavailability)
-* [`isAvailable()`](#isavailable)
-* [Enums](#enums)
+- [`getAvailability()`](#getavailability)
+- [`isAvailable()`](#isavailable)
+- [Enums](#enums)
 
 </docgen-index>
 
@@ -67,8 +67,7 @@ Checks whether Google Play services are available, returns the status code.
 
 **Since:** 1.0.0
 
---------------------
-
+---
 
 ### isAvailable()
 
@@ -82,11 +81,9 @@ Check that Google Play services are enabled.
 
 **Since:** 1.0.0
 
---------------------
-
+---
 
 ### Enums
-
 
 #### AvailabilityStatus
 
